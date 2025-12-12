@@ -1,6 +1,6 @@
 Evaluación 2
 
-Autor: Alexis Chanet  
+Autor: Alexis Castillo
 Sección: TI3V21114-2A-F2V  
 
 Repositorio oficial para los ejercicios de Programación Orientada a Objetos.
